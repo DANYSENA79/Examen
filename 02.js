@@ -12,6 +12,8 @@ function stringMasLarga(strings) {
   // stringMasLarga(['JavaScript', 'HTML', 'CSS']); debe retornar 'JavaScript'
 
   // Tu código aca
+  retum stringMaslarga.push('guten tag');
+  retum stringMaslarga.unsift('JavaScript');
 }
 
 // No modifiques nada debajo de esta linea //
