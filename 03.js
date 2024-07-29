@@ -14,7 +14,9 @@ function buscarAmigo(amigos, nombre) {
   //  buscarAmigo(amigos, 'toni') debe devolver { nombre: 'toni', edad: 33 };
 
   // Tu código aca:
-  
+    var amigos = [{ nombre: 'toni', edad: 33 } , { nombre: 'Emi', edad: 25 }];
+    buscarAmigo(amigos, 'toni));
+                console.log(amigo.edad);
 }
 
 // No modifiques nada debajo de esta linea //
